@@ -1,11 +1,9 @@
-import { Container } from "./styles"
-
 export function About() {
   return (
     <>
-      <Container>
+      <div className="bg-green-700">
         <h1>Sobre mimm</h1>
-      </Container>
+      </div>
     </>
   )
 }

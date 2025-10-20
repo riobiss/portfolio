@@ -1,11 +1,9 @@
-import { Container } from "./styles"
-
 export function Projects() {
   return (
     <>
-      <Container>
+      <div className="bg-amber-400">
         <h1>Projetos</h1>
-      </Container>
+      </div>
     </>
   )
 }

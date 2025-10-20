@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+    --color-azul1: #49C2F2;
+    --color-azul2: #0B2D59;
+    --color-azul3: #0D448C;
+    --color-azul4: #2594D9;
+    --color-azul5: #061426;
+
+}
+/* * {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "Roboto", sans-serif;
+outline: none;
+} 
+`
+ */

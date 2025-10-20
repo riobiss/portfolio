@@ -1,5 +1,4 @@
 import { Header, About, Projects, Stack } from "./components/"
-import GlobalStyles from "./globalStyles.tsx"
 
 export function App() {
   return (
@@ -8,7 +7,6 @@ export function App() {
       <About />
       <Projects />
       <Stack />
-      <GlobalStyles />
     </>
   )
 }
